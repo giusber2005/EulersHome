@@ -27,13 +27,6 @@ The ErmesHouse is on mine repository used to store all the problems, along with 
 
 The problems resolutions are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
-
-- **Documentation**: [Link to documentation]
-- **Issue Tracker**: [Link to issues]
-- **Discussions**: [Link to discussions]
-- **Wiki**: [Link to wiki]
-
 ## 📞 Contact
 
 For questions, suggestions:
@@ -44,6 +37,6 @@ For questions, suggestions:
 
 ---
 
-*"Mathematics is the language with which God has written the universe."* - Galileo Galilei
+*Mathematicians are like lovers. Grant a mathematician the least principle, and he will draw from it a conclusion which you must grant him also, and from this a new one, and so on without end."* - Leonhard Euler
 
 **Happy coding and mathematical exploration!** 🚀✨
