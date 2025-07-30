@@ -31,9 +31,9 @@ The problems resolutions are licensed under the MIT License - see the [LICENSE](
 
 For questions, suggestions:
 
-- **Project Maintainer**: [Giuseppe Berardi]
+- **Project Maintainer**: Giuseppe Berardi
 - **Email**: [giusber2005@gmail.com]
-- **GitHub**: [@giusber2005]
+- **GitHub**: @giusber2005
 
 ---
 
