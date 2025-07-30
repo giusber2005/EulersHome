@@ -1,2 +1,7 @@
-.ErmesEnv/
+.problems/EulerEnv/
 .env
+*.pyc
+__pycache__/
+*.pyo
+*.egg-info/
+
