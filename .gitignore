@@ -1,4 +1,4 @@
-.problems/EulerEnv/
+.EulerEnv/
 .env
 *.pyc
 __pycache__/
